@@ -12,4 +12,4 @@ A workday schedule that provides indicators for date and time. It also shows tim
 
 ## Link to application
 
-[abranr84.github.io/Daily-planner-project](abranr84.github.io/Daily-planner-project)
+[https://abranr84.github.io/Daily-planner-project/](https://abranr84.github.io/Daily-planner-project/)
